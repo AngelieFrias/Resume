@@ -1,0 +1,138 @@
+---
+title: "Ángelie A. Heredia Frías"
+author: "Ángelie A. Heredia Frías"
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    # Thanks to Eric R. Scott for this tip! 
+---
+
+Aside
+================================================================================
+
+
+![Data](data_icon.png){width=30%}
+<!-- ![Data](`r here::here("data_icon.png")`) -->
+
+
+
+Contact Info {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope"></i> Angelie.Heredia@gmail.com
+- <i class="fa fa-github"></i> [github.com/AngelieFrias](https://github.com/AngelieFrias)
+- <i class="fa fa-phone"></i> +1 978-305-2506
+
+
+Skills {#skills}
+--------------------------------------------------------------------------------
+
+- Experienced in running multivariate regression. 
+
+- **Native Spanish speaker**, advanced reading, writing and comprehension
+
+- Performing **data analysis**, with a focus on engineering models
+
+- Experienced in data analysis and map creation using **ArcGIS Pro, Q-GIS, and Storymaps** 
+
+- Wrote production-level **R and Python** 
+
+- **Machine Learning** on cloud platforms (AWS)
+
+- Proficient data cleaning and data management using **Excel** and advanced use of **Google Apps and MS Word**
+
+
+
+Disclaimer {#disclaimer}
+--------------------------------------------------------------------------------
+
+<!--This resume was made with the R package [**pagedown**](https://github.com/rstudio/pagedown).-->
+
+Last updated on `r Sys.Date()`.
+
+
+
+Main
+================================================================================
+
+Ángelie A. Heredia Frías {#title}
+--------------------------------------------------------------------------------
+
+### Data Analytics student seeking Spring 2020 internship
+
+Education {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### Tufts University
+
+M.S. Candidate in Data Analysis
+
+Medford, MA
+
+2020--Current
+
+
+### Tufts University
+
+B.S. in Cognitive & Brain Sciences
+
+Medford, MA 
+
+2016--2020
+
+
+Research Experience {data-icon=flask}
+--------------------------------------------------------------------------------
+
+### Tufts University Spatial Cognition Lab
+
+Tufts University
+
+Medford, MA
+
+January 2020 -- May 2020
+
+- Scheduled and ran studies on behalf of the principal investigator 
+- Performed literature reviews on relevant research to support ongoing studies on environmental learning
+- Coordinated team meetings with the principal investigator and other research assistants in the lab
+
+### Readiness through Integrative Science and Engineering (RISE) Project in the Ensuring eXperiences for Children's Early Learning Success (EXCELS) Lab
+
+Tufts University
+
+Medford, MA
+
+2017--2019
+
+- Observed, reviewed, and coded the teaching methods of Head Start educators in the Greater Boston Area 
+- Gathered video data and practiced self-accountability when maintaining camera equipment and traveling to new sites every month
+- Enhanced team collaboration skills through group discussions to analyze teacher- and student-data
+
+### Tufts University Social Identity and Stigma Lab
+
+Tufts University
+
+Medford, MA
+
+January 2019 -- May 2019
+
+- Acted as head researcher for the principal investigator’s studies, including single-handedly scheduling and running studies with research participants
+- Supported principal investigator with processing of raw data and data cleaning
+- Reviewed relevant literature on research regarding societal views of women and people of color and the stereotypes that follow them
+
+
+
+Project Experience {data-icon=chalkboard-teacher}
+--------------------------------------------------------------------------------
+
+### DATA-200 Foundations of Data Analyics 
+
+Tufts University
+
+Medford, MA
+
+2016--2018
+
+<!--::: concise-->
+- Deployed a project which analyzed the if 911 call frequencies differ by neighborhoods of varying racial and ethnic demographics in the Boston area
+<!--:::-->
